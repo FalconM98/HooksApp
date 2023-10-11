@@ -1,7 +1,7 @@
-import { CounterApp } from "./components/CounterApp"
+import { CounterHustomHook } from "./components/CounterHustomHook"
 
 export const HookApp = () => {
   return (
-    <CounterApp/>
+    <CounterHustomHook/>
   )
 }
