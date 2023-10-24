@@ -1,7 +1,7 @@
-import { CounterHustomHook } from "./components/CounterHustomHook"
+import { SimpleForm } from "./useEffects/SimpleForm"
 
 export const HookApp = () => {
   return (
-    <CounterHustomHook/>
+    <SimpleForm/>
   )
 }
